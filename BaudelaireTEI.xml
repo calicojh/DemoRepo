@@ -75,7 +75,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <desc>1866 Les Epaves xml:id="1866"</desc>
             <biblStruct>
               <monogr>
-                <title>Les Épaves</title>
+                <title>:)</title>
                 <author>Charles Baudelaire</author>
                 <imprint>
                   <pubPlace>Amsterdam</pubPlace>
@@ -130,27 +130,30 @@ Online Distributed Proofreading Team.</p>
         <head>
           <title type="main">Bien loin d'ici</title>
         </head>
-        <lg type="stanza" subtype="tercet" n="1">
-          <l n="1">C'est ici la case sacrée</l>
-          <l n="2">Où cette fille très-parée,</l>
-          <l n="3">Tranquille et toujours préparée,</l>
+        <lg type="stanza" subtype="quatrain" n="1">
+          <l n="1">I am sitting in a room different from the one you are in now.</l> 
+          <l n="2"> I am recording the sound of my speaking voice and I am going to play it back </l> 
+          <l n="3"> into the room again and again until the resonant frequencies of the room reinforce themselves </l> 
+          <l n="4"> so that any semblance of my speech, with perhaps the exception of rhythm, is destroyed. </l> 
+          
         </lg>
         <lg type="stanza" subtype="tercet" n="2">
-          <l n="4">D'une main éventant ses seins,</l>
-          <l n="5">Et son coude dans les coussins,</l>
-          <l n="6">Écoute pleurer les bassins :</l>
+          <l n="5">D'une main éventant ses seins,</l>
+          <l n="6">Et son coude dans les coussins,</l>
+          <l n="7">Écoute pleurer les bassins :</l>
         </lg>
         <lg type="stanza" subtype="quatrain" n="3">
-          <l n="7">C'est la chambre de Dorothée.</l>
-          <l n="8">— La brise et l'eau chantent au loin</l>
-          <l n="9">Leur chanson de sanglots heurtée</l>
-          <l n="10">Pour bercer cette enfant gâtée.</l>
+          <l n="8">C'est la chambre de Dorothée.</l>
+          <l n="9">— La brise et l'eau chantent au loin</l>
+          <l n="10">Leur chanson de sanglots heurtée</l>
+          <l n="11">Pour bercer cette enfant gâtée.</l>
         </lg>
         <lg type="stanza" subtype="quatrain" n="4">
-          <l n="11">Du haut en bas, avec grand soin,</l>
-          <l n="12">Sa peau délicate est frottée</l>
-          <l n="13">D'huile odorante et de benjoin.</l>
-          <l n="14">— All work and no play makes Jack a dull boy.</l>
+
+          <l n="12">Du haut en bas, avec grand soin,</l>
+          <l n="13">Sa peau délicate est frottée</l>
+          <l n="14">D'huile odorante et de benjoin.</l>
+          <l n="15">— Des fleurs se pâment dans un coin.</l>
         </lg>
       </div>
     </body>
